@@ -1,7 +1,12 @@
-# 👋Hi everyone! I'm Lionardi 3002
+# 👋 Hey, I'm ! Illusioneh
 
-# 💻I'm an expert in python and i'm learning java and C++
+💻 Python Developer  
+📚 Currently learning Java & C++  
+📀 Linux and MySQL expert
+📝 Expanding HTML, CSS and Custom Frameworks
 
-# 🌐I'm a website developer for commission in you want contact me on discord: lionardi3002.
+I create clean, efficient, and scalable web solutions for clients.
 
-# 🔫GUN.LOL: https://guns.lol/lionardi3002
+## 📩 Let's connect
+Discord: illusion3h_
+Portfolio: 
